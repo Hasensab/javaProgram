@@ -12,6 +12,8 @@ class Continue{
 			}
 			
 			System.out.println(a);
+			System.out.println("this is continue");
+
 
 		}
 }
