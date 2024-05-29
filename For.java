@@ -10,6 +10,7 @@ class For{
 			
 			
 			System.out.println(a);
+			System.out.println("Hai hasen");
 
 		}
 }
